@@ -70,13 +70,13 @@ Se utilizó un gráfico interactivo con `dygraphs` para visualizar los rendimien
 
 ## 📉 Rendimientos diarios de AAPL e IBM
 
-![Serie temporal de rendimientos](grafico1.png)
+![Serie temporal de rendimientos](grafica1.png)
 
 ---
 
 ## 🧪 Distribución de retornos
 
-![Histogramas de AAPL e IBM](grafico2.png)
+![Histogramas de AAPL e IBM](grafica2.png)
 
 
 - Se observa una **mayor volatilidad en AAPL**, con picos positivos y negativos más pronunciados.
