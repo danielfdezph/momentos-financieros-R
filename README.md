@@ -68,6 +68,17 @@ Este proyecto tiene como objetivo analizar los rendimientos de las acciones de A
 
 Se utilizó un gráfico interactivo con `dygraphs` para visualizar los rendimientos diarios de **AAPL** (rojo) e **IBM** (azul) entre enero de 2024 y marzo de 2025.
 
+## 📉 Rendimientos diarios de AAPL e IBM
+
+![Serie temporal de rendimientos](grafico1.png)
+
+---
+
+## 🧪 Distribución de retornos
+
+![Histogramas de AAPL e IBM](grafico2.png)
+
+
 - Se observa una **mayor volatilidad en AAPL**, con picos positivos y negativos más pronunciados.
 - IBM muestra una evolución más contenida y estable, aunque también presenta variabilidad.
 - El comportamiento sugiere que AAPL conlleva **más riesgo y mayor potencial de ganancias/pérdidas extremas** que IBM en este periodo.
