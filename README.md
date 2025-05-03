@@ -2,7 +2,7 @@
 Aplicaré  los conocimientos de los momentos estadísticos para realizar un ejercicio práctico que caracterice y compare dos series financieras de rendimientos en R.
 # 📊 Análisis de las acciones de AAPL & IBM durante el año 2024
 
-Este proyecto tiene como objetivo analizar el dataset de [descripción breve del tema, por ejemplo: ingresos, salud, educación, etc.], realizando una limpieza de datos, visualización exploratoria y un modelo predictivo básico utilizando [Python / R].
+Este proyecto tiene como objetivo analizar los rendimientos de las acciones de APPLE (AAPL) y IBM (IBM), obteniendo momentos estadísticos: media, varianza, sesgo, curtosis, realizando pruebas de normalidad: t-test y Jarque-Bera, visualizar la distribución de rendimientos y comparar con la distribución normal
 
 ---
 
