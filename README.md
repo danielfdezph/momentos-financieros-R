@@ -76,7 +76,7 @@ Se utilizó un gráfico interactivo con `dygraphs` para visualizar los rendimien
 
 ## 🧪 Distribución de retornos
 
-![Histogramas de AAPL e IBM](grafica2.png)
+![Histogramas de AAPL e IBM](grafica 2.png)
 
 
 - Se observa una **mayor volatilidad en AAPL**, con picos positivos y negativos más pronunciados.
