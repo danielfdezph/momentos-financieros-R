@@ -39,6 +39,7 @@ Este proyecto tiene como objetivo analizar el dataset de [descripción breve del
 ## 🧪 Estructura del proyecto
 
 📄 análisis-financiero.R   → Script principal con análisis estadístico en R
+📄 requirements.R          → Script para instalar y cargar las librerías necesarias
 📄 README.md               → Explicación general del proyecto (este archivo)
 📄 LICENSE                 → Licencia de uso (MIT)
 📄 .gitignore              → Archivos excluidos del control de versiones
