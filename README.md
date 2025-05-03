@@ -38,7 +38,8 @@ Este proyecto tiene como objetivo analizar el dataset de [descripción breve del
 
 ## 🧪 Estructura del proyecto
 
-📁 data/                     → Dataset obtenido automáticamente desde Yahoo Finance
-📄 analisis-rendimientos.R   → Script principal con análisis y visualización
-📄 README.md                 → Este documento
+📄 análisis-financiero.R   → Script principal con análisis estadístico en R
+📄 README.md               → Explicación general del proyecto (este archivo)
+📄 LICENSE                 → Licencia de uso (MIT)
+📄 .gitignore              → Archivos excluidos del control de versiones
 
