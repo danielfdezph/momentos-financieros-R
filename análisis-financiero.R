@@ -9,7 +9,7 @@ library(tseries)
 library(dygraphs)
 options(warn = -1)
 
-## con fechas de: 1ro-enero 2005 al 30 junio 2021 
+## con fechas de: 1ro-enero 2024 al 31 de Diciembre del 2024
 ## a partir de los precios de cierre
 
 start <- format(as.Date("2024-01-01"), "%Y-%m-%d")
@@ -92,7 +92,7 @@ t4 = s4 / sqrt(24 / T)
 pv = 2 * (1 - pnorm(t4))
 
 #Prueba de normalidad: Jarque-Bera
-normalTest(FB, method = 'jb')
+normalTest(AAPL, method = 'jb')
 
 ##HACEMOS EL MISMO PROCEDIMIENTO CON EL SEGUNDO ACTIVO
 
