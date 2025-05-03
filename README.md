@@ -70,15 +70,6 @@ Se utilizó un gráfico interactivo con `dygraphs` para visualizar los rendimien
 
 ## 📉 Rendimientos diarios de AAPL e IBM
 
-![Serie temporal de rendimientos](grafica1.png)
-
----
-
-## 🧪 Distribución de retornos
-
-![Histogramas de AAPL e IBM](grafica 2.png)
-
-
 - Se observa una **mayor volatilidad en AAPL**, con picos positivos y negativos más pronunciados.
 - IBM muestra una evolución más contenida y estable, aunque también presenta variabilidad.
 - El comportamiento sugiere que AAPL conlleva **más riesgo y mayor potencial de ganancias/pérdidas extremas** que IBM en este periodo.
