@@ -44,3 +44,32 @@ Este proyecto tiene como objetivo analizar los rendimientos de las acciones de A
 📄 LICENSE                 → Licencia de uso (MIT)
 📄 .gitignore              → Archivos excluidos del control de versiones
 
+
+
+## 📊 Resultados
+
+📉 **AAPL** (Apple Inc.)
+  - Rendimiento promedio diario: **−0.0109%**
+  - Volatilidad (desviación estándar): **2.15%**
+  - **p-valor (prueba t): 0.9172**, por lo tanto **no hay evidencia estadística** de que el rendimiento promedio difiera de cero.
+  - **Sesgo (skewness): 1.07**, indicando asimetría positiva (más probabilidad de ganancias extremas).
+  - **Curtosis: 13.34**, sugiere colas pesadas (alta probabilidad de eventos extremos).
+  - **Prueba de normalidad Jarque-Bera:** p < 2.2e−16 → **se rechaza la hipótesis de normalidad**.
+
+📈 **IBM**
+  - Rendimiento promedio diario: **+0.1408%**
+  - Volatilidad (desviación estándar): **1.90%**
+  - **p-valor (prueba t): 0.1302**, no es estadísticamente significativo; no se rechaza la hipótesis de media igual a cero.
+  - **Sesgo (skewness): 1.21**, también muestra asimetría positiva.
+  - **Curtosis: 12.51**, indica colas pesadas.
+  - **Prueba de normalidad Jarque-Bera:** p < 2.2e−16 → **los rendimientos no siguen una distribución normal**.
+
+## Visualización de rendimientos
+
+Se utilizó un gráfico interactivo con `dygraphs` para visualizar los rendimientos diarios de **AAPL** (rojo) e **IBM** (azul) entre enero de 2024 y marzo de 2025.
+
+- Se observa una **mayor volatilidad en AAPL**, con picos positivos y negativos más pronunciados.
+- IBM muestra una evolución más contenida y estable, aunque también presenta variabilidad.
+- El comportamiento sugiere que AAPL conlleva **más riesgo y mayor potencial de ganancias/pérdidas extremas** que IBM en este periodo.
+
+> Este tipo de visualización es útil para observar la evolución conjunta de los activos y detectar episodios de alta volatilidad en tiempo real.
